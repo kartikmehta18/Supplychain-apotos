@@ -1,0 +1,15 @@
+[package]
+name = "Supply-chain-management"
+version = "1.0.0"
+authors = []
+
+[addresses]
+supply_chain_program = '0x7C38926C4fa95E84BCf784857F7C2FF342190368'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
