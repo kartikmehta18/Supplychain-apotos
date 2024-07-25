@@ -7,11 +7,6 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
 
 Our DApp utilizes the inherent transparency and immutability of blockchain to provide a secure and transparent platform for tracking goods at every stage of the supply chain. Leveraging smart contracts, the DApp automates various tasks such as verifying product authenticity, recording transactions, and managing inventory in real-time.
 
-
-## Presentation🚀 
-
-[Presentation](https://www.canva.com/design/DAGGOzBtxMA/WX-Xxir4pLLfF5dSJMulfg/edit?utm_content=DAGGOzBtxMA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 ## Instruction
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements47
